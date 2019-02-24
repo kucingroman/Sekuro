@@ -5,4 +5,5 @@ int main () {
     int n;
     cin >> n;
     cout << n*n << '\n';
+	cout << "N kalo dikuadratin\n";
 }
