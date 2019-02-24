@@ -6,4 +6,5 @@ int main () {
     cin >> n;
     cout << n*n << '\n';
 	cout << "N kalo dikuadratin\n";
+    cout << n*n*n << '\n';
 }
